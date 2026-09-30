@@ -6,6 +6,7 @@
 
 ---
 
+<<<<<<< HEAD
 -全球DEM：https://pan.baidu.com/s/1PeQXFzzoWHv4PqHi1JvOlA?pwd=4eck (下载放置于运行程序XJFastSystem下，与PreProcess同目录)
 
 -公司主页：www.xuanjing.org.cn
@@ -18,6 +19,20 @@
 -					xjzoo@qq.com.cn
 -联系电话：0086-15827517455		0086-17767153262
 -					0086-15927258489		0086-27-87877161
+=======
+全球DEM：https://pan.baidu.com/s/1PeQXFzzoWHv4PqHi1JvOlA?pwd=4eck (下载放置于运行程序XJFastSystem下，与PreProcess同目录)
+
+公司主页：www.xuanjing.org.cn
+试用软件：https://pan.baidu.com/s/14XfdAVXStrXBb9lQ0HewQg?pwd=v9ie
+					https://github.com/hwc0632/XJFastSystem/tree/main
+					https://github.com/hwc0632/XJFastSystem/releases/tag/V1.0
+测试数据：https://pan.baidu.com/s/1d4to5u0TN0ACsOXAFi-j6Q?pwd=zhph
+操作视频：https://space.bilibili.com/526059808/upload/video
+电子邮箱：hwc0632@whu.edu.cn
+					xjzoo@qq.com.cn
+联系电话：0086-15827517455		0086-17767153262
+					0086-15927258489		0086-27-87877161
+>>>>>>> e1096cc1dd1a3b6b59681e5ebb2a5d08beef622f
 
 
 ## 目录
